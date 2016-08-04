@@ -1,2 +1,4 @@
 - initial creation in the P1 - project of TextC - document
+- Changes from Home
+
 
